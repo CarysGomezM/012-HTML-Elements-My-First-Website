@@ -1,0 +1,24 @@
+img{ 
+    width:88%;
+    height:60%;
+}
+ 
+#imgId {
+background-color:teal;
+}
+
+#pictures {
+    display: flex;
+}
+
+#romeo, #jlo, #ozuna {
+    width:30%;   
+    height: 152px;
+}
+h1{
+   font-family: 'Spicy Rice', cursive;
+font-family: 'Fjalla One', sans-serif;
+    }
+
+
+
